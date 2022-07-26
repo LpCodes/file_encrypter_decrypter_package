@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: file-encrypter-decrypter
+Version: 0.0.1
+Summary: A package for Encrypting & Decrypting Files
+Home-page: https://github.com/LpCodes/file_encrypter_decrypter_package
+Author: Lpcodes
+Project-URL: Bug Tracker, https://github.com/LpCodes/file_encrypter_decrypter_package/issues
+Keywords: encryption decryption crypto Encryption secret cryptography password
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Utilities
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# file_encrypter_decrypter
+
+A simple package to Encrypt & Decrypt files or Entire Folder contents
