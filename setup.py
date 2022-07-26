@@ -5,15 +5,15 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="LpImagesDownloader",
+    name="file_encrypter_decrypter",
     version="0.0.1",
     author="Lpcodes",
     description="A package for Encrypting & Decrypting Files",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/LpCodes/LP-All-Images-Downloader",
+    url="https://github.com/LpCodes/file_encrypter_decrypter_package",
     project_urls={
-        "Bug Tracker": "https://github.com/LpCodes/LP-All-Images-Downloader/issues",
+        "Bug Tracker": "https://github.com/LpCodes/file_encrypter_decrypter_package/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
@@ -22,7 +22,7 @@ setup(
         "Topic :: Utilities",
     ],
     packages=find_packages(),
-    keywords="encryption decryption crypto Encryption secret",
+    keywords="encryption decryption crypto Encryption secret cryptography password",
     install_requires=[
         "cryptography",
         "keyring",
