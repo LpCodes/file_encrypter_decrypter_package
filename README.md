@@ -1,3 +1,4 @@
+[![Downloads](https://static.pepy.tech/personalized-badge/file-encrypter-decrypter?period=total&units=abbreviation&left_color=grey&right_color=brightgreen&left_text=Downloads)](https://pepy.tech/project/file-encrypter-decrypter) ![PyPI](https://img.shields.io/pypi/v/file-encrypter-decrypter?style=flat-square)
 
 # file_encrypter_decrypter
 
@@ -21,6 +22,14 @@ File_Encrypter("./dummy.text")
 File_Decrypter("./dummy.text")
 Folder_Encrypter("/folderpath")
 Folder_Decrypter("/folderpath")
+
+
+The file has been Encrypted Successfully
+
+Loading Encrypted file data
+Decrypting the file
+File data has been successfully decrypted
+All data related to encryption  purged
 ........................
 ```
 
